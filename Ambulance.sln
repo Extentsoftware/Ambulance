@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmbulanceTools", "AmbulanceTools\AmbulanceTools.csproj", "{64A7A1FE-4130-409C-A930-9543DB2AAB7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Packages.props = Directory.Packages.props
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A7A1FE-4130-409C-A930-9543DB2AAB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A7A1FE-4130-409C-A930-9543DB2AAB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A7A1FE-4130-409C-A930-9543DB2AAB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A7A1FE-4130-409C-A930-9543DB2AAB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D1F8E6C-C9A3-416C-B5C9-F38C66599006}
+	EndGlobalSection
+EndGlobal
