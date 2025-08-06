@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "marketplace-remote": {
+      "command": "npx",
+      "args": ["mcp-remote", "http://localhost:5000/sse"]
+    }
+  }
+}
